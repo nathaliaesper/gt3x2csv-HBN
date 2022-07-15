@@ -11,8 +11,11 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 <!-- badges: end -->
 
 Changes made by the Healthy Brain Network project:
+
 We made a change on the Utils.R file.
+
 The previous package saves the file with the extension "RAW.csv".
+
 We changed to save only ".csv" instead of "RAW.csv".
 
 -------------
