@@ -10,6 +10,13 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![R-CMD-check](https://github.com/tarensanders/gt3x2csv/workflows/R-CMD-check/badge.svg)](https://github.com/tarensanders/gt3x2csv/actions)
 <!-- badges: end -->
 
+Changes made by the Healthy Brain Network project:
+We made a change on the Utils.R file.
+The previous package saves the file with the extension "RAW.csv".
+We changed to save only ".csv" instead of "RAW.csv".
+
+-------------
+
 The goal of gt3x2csv is to convert .gt3x files into (raw) csv files so
 that they can be analysed in other packages such as
 [GGIR](https://cran.r-project.org/package=GGIR). The goals of this
